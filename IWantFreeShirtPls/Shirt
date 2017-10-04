@@ -1,0 +1,22 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace IWantFreeShirtPls.Objects
+{
+    public class Shirt
+    {
+    
+        private string color;
+        private int size;
+        private string motive;
+        
+        public  Shirt(string color, int size, string motive)
+        {
+
+        }
+
+    }
+}
