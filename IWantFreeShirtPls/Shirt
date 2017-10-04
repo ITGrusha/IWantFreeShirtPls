@@ -8,6 +8,9 @@ namespace IWantFreeShirtPls.Objects
 {
     public class Shirt
     {
+    
+        private string color;
+        
         public  Shirt()
         {
 
