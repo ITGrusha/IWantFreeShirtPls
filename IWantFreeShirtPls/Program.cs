@@ -10,7 +10,7 @@ namespace IWantFreeShirtPls
   {
     static void Main(string[] args)
     {
-      Console.WriteLine("Shirt pls");
+      Console.WriteLine("Print a shirt? how the actual fuck is that accomplished?");
     }
   }
 }
