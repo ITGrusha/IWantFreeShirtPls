@@ -13,7 +13,7 @@ namespace IWantFreeShirtPls.Objects
         private int size;
         private string motive;
         
-        public  Shirt()
+        public  Shirt(string color, int size, string motive)
         {
 
         }
