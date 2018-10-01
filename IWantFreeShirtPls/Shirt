@@ -12,11 +12,12 @@ namespace IWantFreeShirtPls.Objects
         private string color;
         private int size;
         private string motive;
+        private boolean isHoodie;
         
         public void Shirt(string color, int size, string motive)
         {
             int cost = 1500 * size / 40;
-        }
+            isHoodie = false;        }
 
     }
 }
