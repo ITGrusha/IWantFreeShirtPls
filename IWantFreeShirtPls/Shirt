@@ -13,9 +13,9 @@ namespace IWantFreeShirtPls.Objects
         private int size;
         private string motive;
         
-        public  Shirt(string color, int size, string motive)
+        public void Shirt(string color, int size, string motive)
         {
-
+            int cost = 1500 * size / 40;
         }
 
     }
